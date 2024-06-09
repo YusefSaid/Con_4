@@ -1,6 +1,6 @@
 # Project
 
-This is a connect four game web app using React (Vite) and Capacitor for porting to native platforms.
+This is a connect four game web app using React (Vite) and Capacitor for porting to native platforms. The project was developed by me and two other students.
 
 ## TL;DR
 
